@@ -7,13 +7,13 @@ package com.atanbo.huashan;
 public class Dugujiujian {
     public static void main(String[] args) {
 
-
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
         System.out.println("独孤九剑");
-
-
+        System.out.println("独孤九剑1");
+        System.out.println("独孤九剑1");
+        System.out.println("独孤九剑1");
     }
 }
